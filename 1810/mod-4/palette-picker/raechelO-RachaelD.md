@@ -33,9 +33,11 @@
 
  #### Link to a specific block of your code on GitHub (from either repository) that you are proud of
 [happy code](https://github.com/raechelo/Palette-Picker-fe/blob/63941a2b12010067739e06d92c41b8ef60b49dcb/src/Components/Project/Project.js#L19-L31)
+[more happy code](https://github.com/raechelo/Palette-Picker-fe/blob/004a5bea54a8a7c17b614ca5b1f71eeec513e867/src/Components/Home/Home.js#L50-L58)
 
  * Why were you proud of this piece of code?  
 - Having a modal that could pop out and dispaly the projects and palette was on our nice to have list and it was great to be able to implement that with little issue.
+-Didnt need to use an npm package!
 
  #### Link to a specific block of your code on GitHub that you feel not great about
 [sad code](https://github.com/raechelo/Palette-Picker-fe/blob/63941a2b12010067739e06d92c41b8ef60b49dcb/src/Components/Project/Project.js#L51-L67)
